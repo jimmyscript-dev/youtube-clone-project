@@ -1,0 +1,48 @@
+    .header {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      margin-bottom: 30px;
+      height: 20px;
+    }
+    .left-section {
+      width: 100px;
+      height: 30px;
+      flex: 1;
+    }
+    .yt-icon {
+      width: 100px;
+      margin-top: 5px;
+    }
+    .right-section {
+      display: flex;
+      height: 30px;
+      justify-content: space-between;
+      align-items: center;
+      flex: 1;
+      margin-right: 15px;
+    }
+    .magnifying-icon {
+      width: 30px;
+    }
+    .notif-icon {
+      width: 30px;
+      position: relative;
+    }
+    .notif-dot {
+      position: absolute;
+      width: 8px;
+      height: 8px;
+      top: 13px;
+      right: 134px;
+      background: red;
+      color: white;
+      border-radius: 50%
+    }
+    .cast-screen {
+      width: 30px;
+    }
+    .profile-circle {
+      width: 30px;
+      border-radius: 50%;
+    }

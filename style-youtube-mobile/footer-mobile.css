@@ -1,0 +1,83 @@
+     .footer {
+       height: 50px;
+       background-color: white;
+       display: flex;
+       position: fixed;
+       width: 396px;
+       bottom: 0px;
+       margin-left: 0px;
+       display: flex;
+       flex-direction: row;
+       align-items: bottom;
+       justify-content: space-evenly;
+       padding: 5px;
+     }
+     .icons-row {
+       margin-top: 10px;
+       text-align: center;
+     }
+     .home-icon {
+       width: 20px;
+       margin-bottom: 0px;
+     }
+     .home-word {
+       margin-top: 0px;
+       font-size: 14px;
+     }
+     .shorts-row {
+       text-align: center;
+       margin-top: 6px;
+     }
+     .shorts-icon {
+       margin-top: 0px;
+       width: 19px;
+       margin-bottom: 1px;
+     }
+     .shorts-word {
+       margin-top: 0px;
+       font-size: 14px;
+     }
+     .plus-row {
+       text-align: center;
+       margin-left: 10px;
+     }
+     .plus-icon {
+       width: 35px;
+       margin-top: 10px;
+       margin-left: 10px;
+     }
+     .sub-row {
+       margin-top: 8px;
+       text-align: center;
+     }
+     .sub-icon {
+       width: 23px;
+       margin-bottom: 0px;
+     }
+     .subs {
+       margin-top: 0px;
+       font-size: 14px;
+       position: relative
+     }
+     .red-notif {
+       position: absolute;
+       width: 8px;
+       height: 8px;
+       background: red;
+       top: 10px;
+       right: 116px;
+       border-radius: 50%;
+     }
+     .library-row {
+       margin-top: 10px;
+       text-align: center;
+     }
+     .library-icon {
+       margin-top: 1px;
+       width: 20px;
+       margin-bottom: 0px;
+     }
+     .library-word {
+       margin-top: 0px;
+       font-size: 14px;
+     }
